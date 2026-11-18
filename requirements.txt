@@ -1,4 +1,4 @@
 pandas
-duckdb
+numpy
 sqlalchemy
 pyodbc
